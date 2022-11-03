@@ -1,0 +1,7 @@
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\BaiTapTruong\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.pdb

@@ -1,0 +1,7 @@
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.AssemblyReference.cache
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+D:\BaiTapTruong\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb

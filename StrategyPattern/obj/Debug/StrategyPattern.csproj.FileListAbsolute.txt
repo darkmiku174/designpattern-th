@@ -1,0 +1,7 @@
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\BaiTapTruong\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

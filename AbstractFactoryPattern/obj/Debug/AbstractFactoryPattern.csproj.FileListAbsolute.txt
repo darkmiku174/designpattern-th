@@ -1,0 +1,7 @@
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.AssemblyReference.cache
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+D:\BaiTapTruong\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

@@ -1,0 +1,7 @@
+D:\BaiTapTruong\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe.config
+D:\BaiTapTruong\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
+D:\BaiTapTruong\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
+D:\BaiTapTruong\DesignPatterns\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+D:\BaiTapTruong\DesignPatterns\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\DesignPatterns\StatePattern\obj\Debug\StatePattern.exe
+D:\BaiTapTruong\DesignPatterns\StatePattern\obj\Debug\StatePattern.pdb
